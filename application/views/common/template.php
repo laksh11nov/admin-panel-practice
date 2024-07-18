@@ -4,7 +4,7 @@
 <head>
 	<?php $this->load->view('common/head'); ?>
 </head>
-<body id="page-top">
+<body>
 	
 <?php
 $this->load->view('common/header');
